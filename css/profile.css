@@ -1,0 +1,29 @@
+body {
+    background-color: rgba(189, 218, 245, 0.178);
+ 
+}
+header{
+    position: fixed;
+    width: 100%;
+    overflow: auto;
+    background-color: brown;
+    border-bottom: 1px solid black;
+    top:0px;
+    height: 40px;
+    padding: 10px;
+}
+header ul li{
+    list-style: none;
+    display: inline;
+   
+}
+header ul li a{
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+}
+header h2{
+    float: left;
+    padding-right: 700px;
+
+}
