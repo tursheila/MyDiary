@@ -1,6 +1,10 @@
 body {
     background-color: rgba(189, 218, 245, 0.178);
- 
+    background-image: url("../myImages/love-memories.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
 }
 header{
     position: fixed;
